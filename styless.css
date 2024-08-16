@@ -1,8 +1,11 @@
 body{
-    color:blue
-backgroundcolor:beige
+    color:blue;
+backgroundcolor:beige;
+margin: 0px;
 
-
-
-
+}
+header {
+    border-bottom: solid 2px white(114, 40, 100);
+    padding: 20px;
+    font-size: 32px;
 }
